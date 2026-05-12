@@ -1,2 +1,2 @@
 # neuronal-oscillators
-Compact model to describe neuronal oscillators based on voltage-controlled NDR and current-controlled NDR
+Compact models to simulate spiking neural oscillations based on voltage-controlled NDR and current-controlled NDR materials.
